@@ -1,1 +1,1 @@
-set account for the first time
+set 1 account for the first time
